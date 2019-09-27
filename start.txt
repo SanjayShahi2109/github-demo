@@ -1,3 +1,5 @@
 test a simple text in git
 .
 I am editing this file.
+
+1 more edit
